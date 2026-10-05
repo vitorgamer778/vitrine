@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "runtime": "Expo Go SDK 57 on Android API36",
+  "steps": 30,
+  "flows": [
+    "catalog",
+    "details",
+    "quantity",
+    "form validation",
+    "checkout",
+    "status",
+    "persistence after force-stop"
+  ],
+  "standalone_apk": false
+}

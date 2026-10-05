@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "runtime": "com.vhcode.vitrine on Android API36",
+  "steps": 29,
+  "flows": [
+    "catalog",
+    "details",
+    "quantity",
+    "form validation",
+    "checkout",
+    "status",
+    "persistence after force-stop"
+  ],
+  "standalone_apk": true
+}

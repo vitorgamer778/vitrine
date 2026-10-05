@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Vitrine",
+    "slug": "vitrine",
+    "scheme": "vitrine",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/vitrine-icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.vhcode.vitrine",
+      "adaptiveIcon": {
+        "backgroundColor": "#64366E",
+        "foregroundImage": "./assets/vitrine-icon.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/vitrine-favicon.png"
+    },
+    "plugins": ["expo-router", "expo-font"]
+  }
+}
